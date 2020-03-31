@@ -2,5 +2,11 @@
 
 AirBNB Copy - API server in AdonisJs
 
-Tecs: Bodyparser, CORS, Lucid ORM and Others
+Linguagem: Javascript
+
+Tecnologia: NodeJs, Bodyparser, CORS, Lucid ORM and Others
+
+Principais bibliotecas: Axios, Lucid e outras ...
+
+Conteúdo: Front-end do aplicativo feito em Javascript
 
